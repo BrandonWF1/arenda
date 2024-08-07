@@ -35,13 +35,6 @@
   ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple?style=for-the-badge&logo=redux)
   ![Reakit](https://img.shields.io/badge/-Ant_Design-blue?style=for-the-badge&logo=antdesign)
 
-## Архитектура проекта
-
-Применена архитектура Features Sliced Design (FSD), ориентированная на разделение проекта по функциональным блокам для улучшения масштабируемости и удобства поддержки.
-
-![Изображение 7](https://github.com/BrandonWF1/arenda/blob/main/screen%207.png)
-
-
 ## Принципы и инструменты разработки
 - Код-стиль и форматирование: Prettier
 - Система контроля версий: Git
@@ -302,11 +295,15 @@
 </details>
 
 ## Команда
-- Общее количество человек: 5
+- Общее количество человек: 12
 - Роли в команде:
   - Разработчиков: 4
   - Дизайнеров: 1
-
+  - Тестировщиков: 2
+  - Lead: 1
+  - Аналитиков: 2
+  - Product & Project Managment: 2
+    
 # Основные достижения и результаты
 
 - Успешная интеграция Front-end и Back-end частей проекта, обеспечивающая бесперебойную работу всего приложения.
