@@ -18,6 +18,8 @@
 ![Изображение 4](https://github.com/BrandonWF1/arenda/blob/main/screen%204.png)
 ![Изображение 5](https://github.com/BrandonWF1/arenda/blob/main/screen%205.png)
 ![Изображение 6](https://github.com/BrandonWF1/arenda/blob/main/screen%206.png)
+![Изображение 7](https://github.com/BrandonWF1/arenda/blob/main/screen%207.png)
+
 
 ## Моя роль в проекте
 
@@ -31,8 +33,7 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass)
   ![Axios](https://img.shields.io/badge/-Axios-blue?style=for-the-badge)
   ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple?style=for-the-badge&logo=redux)
-  ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-blue?style=for-the-badge)
-  ![Ant Design](https://img.shields.io/badge/-Ant_Design-blue?style=for-the-badge&logo=antdesign)
+  ![Reakit](https://img.shields.io/badge/-Ant_Design-blue?style=for-the-badge&logo=antdesign)
 
 ## Архитектура проекта
 
