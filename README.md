@@ -28,8 +28,7 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-white?style=for-the-badge&logo=typescript)
   ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass)
   ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple?style=for-the-badge&logo=redux)
-  ![Reakit](https://img.shields.io/badge/-Ant_Design-blue?style=for-the-badge&logo=antdesign)
-
+  
 ## Принципы и инструменты разработки
 - Код-стиль и форматирование: Prettier
 - Система контроля версий: Git + GitLab
